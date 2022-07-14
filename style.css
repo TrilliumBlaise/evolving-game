@@ -3,9 +3,9 @@
   box-sizing: border-box;
 }
 
-:root {
+/* :root {
   --app-height: 100%;
-}
+} */
 
 html,
 body {
@@ -15,9 +15,9 @@ body {
   width: 100vw;
   height: 100vh;
 
-  @media not all and (hover: hover) {
+  /* @media not all and (hover: hover) {
     height: var(--app-height);
-  }
+  } */
 }
 
 .container {
